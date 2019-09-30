@@ -4,7 +4,7 @@ This is a nodeJS based web application backend
 
 ## Getting Started
 git clone https://github.com/53R3N1TY/Talview-Assignment-Back.git
-cd react-auth-server
+cd authAppServer
 // follow below instructions
 
 ## Setting up your .env file
